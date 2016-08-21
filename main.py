@@ -15,7 +15,7 @@
 # limitations under the License.
 #
 import webapp2
-
+int 12;
 class MainHandler(webapp2.RequestHandler):
     def get(self):
         self.response.write('Hello world!')
